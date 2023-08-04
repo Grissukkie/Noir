@@ -1,0 +1,18 @@
+h1{
+	color: navy;
+	border:2px lightblue solid;
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+	border-radius: 30px;
+	text-shadow: 10px 1px 2px yellow;
+	box-shadow: 1px 3px 2px mediumvioletred;
+	transition: all 3s;
+
+}
+h1:hover {
+	color: black;
+	box-shadow: 2px 5px 5px aqua inset;
+	cursor: pointer;
+	background-color: burlywood;
+}
